@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:my_app/modals/confirm.order.page.dart';
-import 'package:my_app/modals/item.details.page.dart';
+import 'package:my_app/modals/confirm.order.modal.dart';
+import 'package:my_app/modals/item.details.modal.dart';
 
 ButtonStyle buttonStyle = ElevatedButton.styleFrom(
     backgroundColor: Colors.indigo[700],
